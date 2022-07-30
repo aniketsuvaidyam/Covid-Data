@@ -27,7 +27,7 @@ function Covid() {
                 <section id="minimal-statistics">
                     <div className="row">
                         <div className="col-12 mt-3 mb-1">
-                            <h1 className="text-uppercase text-center text-primary"> Bihar Covid Data   Test</h1>
+                            <h1 className="text-uppercase text-center text-primary"> Bihar Covid Data .</h1>
                         </div>
                     </div>
                     <div className="row">
